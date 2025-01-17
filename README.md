@@ -23,7 +23,8 @@ Então com o conteúdo pronto, exportei para .pdf.
 ## 🚀 Resultados
 O e-book apresenta um conteúdo importante e interessante, demonstrando vários aspectos sobre o tema proposto e ainda ajuda na disseminação do conhecimento sobre o assunto.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Nach306/lab-natty-or-not/blob/main/A-Importancia-do-Exercicio-Fisico-na-Terceira-Idade%20(2).pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Espero que gostem!
