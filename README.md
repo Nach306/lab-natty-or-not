@@ -21,7 +21,9 @@ No ChatGPT usei um comando para gerar o conteúdo de um e-book com a idéia cent
 Então com o conteúdo pronto, exportei para .pdf.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo importante e interessante, demonstrando vários aspectos sobre o tema proposto e ainda ajuda na disseminação do conhecimento sobre o assunto.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+[LINK PARA O E-BOOK AQUI]()
+
+## 💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
